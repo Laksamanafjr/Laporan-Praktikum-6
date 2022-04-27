@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>biodata</title>
+</head>
+<body>
+<?php
+echo"Biodata Mahasiswa
+<br>
+<br>
+<table width='700' height='200' border='0' >
+<tr>
+<td width='50'>&nbsp;</td>
+<td width='200' height='5'>NAMA LENGKAP</td>
+<td>:</td>
+<td width='500'> Laksamana Fajar Phumi </td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>NAMA PANGGILAN</td>
+<td>:</td>
+<td> Asekas </td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> NAMA LAPANGAN</td>
+<td>:</td>
+<td> Laksamana </td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> Tempat Tanggal Lahir</td>
+<td> :</td>
+<td>Jakarta, 5 Februari 2002</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> STATUS</td>
+<td>:</td>
+<td>MAHASISWA</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> PENDIDIKAN</td>
+<td>:</td>
+<td>UPN VETERAN JATIM </td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> ALAMAT</td>
+<td>:</td>
+<td>Jakarta Selatan Cilandak Lebak bulus</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> Tinggi/Berat</td>
+<td>:</td>
+<td>170 cm/56 kg</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td> AGAMA</td>
+<td>:</td>
+<td>ISLAM</td>
+</tr>
+<tr>
+<td height='21'>&nbsp;</td>
+<td> HOBI</td>
+<td>:</td>
+<td>Olaraga</td>
+</tr>
+</table>";
+?>   
+</body>
+</html>
